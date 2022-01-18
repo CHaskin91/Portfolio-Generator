@@ -9,3 +9,8 @@
 * Using ES6 arrow functions and assignment destructuring to write cleaner code.
 * Researching Documentation to learn how to use new tools like the core library in Node.js
 * Requiring and exporting modules to use Node.js's core library and modularize the application.
+
+## Lesson 3
+* Understand the purpose of npm and navigate its ecosystem.
+* Learn npm commands to initiate projects and install packages using the command-line utility.
+* Understand how to use inquirer and its Promise.
