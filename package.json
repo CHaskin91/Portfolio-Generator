@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "## Lesson 1 * Learned that Node.js is a runtime environment popular for building applications that run outside of the browser. * Learned how to create and execute an application build with Node.js * Learned what JavaScript ES6 (ECMAScript 6) is, how to use some of its features, and how they can benefit us.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHaskin91/Portfolio-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHaskin91/Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/CHaskin91/Portfolio-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
