@@ -14,3 +14,12 @@
 * Understand the purpose of npm and navigate its ecosystem.
 * Learn npm commands to initiate projects and install packages using the command-line utility.
 * Understand how to use inquirer and its Promise.
+
+## Lesson 4
+* Used object destructuring and learned about the rest and spread operators to help keep the data organized.
+* Broke a function into multiple pieces to make it easier to read the code for a specific section of the HTML template.
+* Leveraged HTML elements by using new array methods .filter() and .map() to take input data and return HTML data with it.
+
+## Lesson 5
+* Understand how to use the 'fs' module to copy files from one location to another.
+* Create JavaScript Promises to handle asynchronous functionality in a cleaner way.
